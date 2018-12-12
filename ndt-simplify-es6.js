@@ -345,4 +345,4 @@ NDTSimplify.init = function() {
 	NDTSimplify.time._last = millis();
 }
 
-exports default NDTSimplify;
+export default NDTSimplify;
