@@ -6,4 +6,4 @@ ndt-simplify-es6.js is the same as ndt-simplify.js only it is an ES6 module.
 ## ndts-shortcuts.js
 ndts-shortcuts.js is an extension. Its only purpose is to shorten the names of the objects (for example NDTSimplify.Element is abbreviated to NDTS_Element).
 ## Documentation
-The NDT Simplify documentation can be found at our website, specifically [here](https://nonamiandevteam.000webhostapp.com/simplify/docs/).
+The NDT Simplify documentation can be found at our website, specifically [here](https://nonamiandevteam.000webhostapp.com/tools/simplify/docs/).
